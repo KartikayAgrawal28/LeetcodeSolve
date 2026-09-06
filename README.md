@@ -82,6 +82,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0518-coin-change-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0518-coin-change-ii) |
@@ -342,6 +343,7 @@
 | [0013-roman-to-integer](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0020-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0344-reverse-string) |
